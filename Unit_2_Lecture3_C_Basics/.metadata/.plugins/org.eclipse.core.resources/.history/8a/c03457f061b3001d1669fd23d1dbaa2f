@@ -1,0 +1,18 @@
+/*
+ * EX5_Find_ASCII.c
+ *
+ *  Created on: Feb 23, 2023
+ *      Author: ELZAHBIA
+ */
+
+
+#include <stdio.h>
+
+int main()
+{
+	setbuf(stout,NULL);
+	char ch;
+	printf("Enter a character: \n");
+
+
+}

@@ -1,0 +1,28 @@
+/*
+ * EX6_Swap_Two_Nums.c
+ *
+ *  Created on: Feb 23, 2023
+ *      Author: Mohamed Haytham
+ */
+
+
+#include <stdio.h>
+
+int main()
+{
+	setbuf(stdout,NULL);
+	int num1 , num2;
+	int temp;
+	printf("Enter value of first number : \n");
+	scanf("%d",&num1);
+	printf("Enter value of second number : \n");
+	scanf("%d",&num2);
+	temp=num1;
+	num1=num2;
+	num2=temp;
+	printf("After swapping, value of first number : %d\n",num1);
+	printf("After swapping, value of second number : %d",num2);
+	return 0;
+
+}
+

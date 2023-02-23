@@ -1,0 +1,21 @@
+/*
+ * Add Two Integers.c
+ *
+ *  Created on: Feb 23, 2023
+ *      Author: ELZAHBIA
+ */
+
+
+#include <stdio.h>
+
+int main()
+{
+	setbuf(stdout,NULL);
+	int num1 , num2;
+	int sum;
+	printf("Enter Two Numbers : \n");
+	scanf("%d%d",&num1,&num2);
+	sum=num1+num2;
+	printf("%d",sum);
+
+}

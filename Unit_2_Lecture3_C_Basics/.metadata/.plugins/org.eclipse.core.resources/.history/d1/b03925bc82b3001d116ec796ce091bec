@@ -1,0 +1,27 @@
+/*
+ * Sum_Of_Natural_Nums.c
+ *
+ *  Created on: Feb 23, 2023
+ *      Author: Mohamed Haytham
+ */
+
+
+#include<stdio.h>
+
+int main()
+{
+	setbuf(stdout,NULL);
+	int i;
+	int sum=0;
+	int numbers;
+	printf("Enter the numbers : \n");
+	scanf("%d",&numbers);
+	for(i=1;i<=numbers;i++)
+	{
+		sum+=numbers;
+	}
+	printf("The sum of the numbers is %d",sum);
+	return 0;
+}
+
+

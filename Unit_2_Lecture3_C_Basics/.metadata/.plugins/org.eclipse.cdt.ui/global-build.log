@@ -1,0 +1,349 @@
+15:40:15 **** Incremental Build of configuration Debug for project Vowel_Or_Consonant ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Vowel_Or_Consonant.o "..\\Vowel_Or_Consonant.c" 
+..\Vowel_Or_Consonant.c: In function 'main':
+..\Vowel_Or_Consonant.c:16:135: warning: multi-character character constant [-Wmultichar]
+   16 |         if(ch == 'a' || ch == 'A' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U' || ch == 'i' || ch == 'I' || ch == 'e' || ch == ' E')
+      |                                                                                                                                       ^~~~
+..\Vowel_Or_Consonant.c:18:26: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   18 |                 printf("%c is Vowel ");
+      |                         ~^
+      |                          |
+      |                          int
+..\Vowel_Or_Consonant.c:22:26: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |                 printf("%c is Consonant");
+      |                         ~^
+      |                          |
+      |                          int
+gcc -o Vowel_Or_Consonant.exe Vowel_Or_Consonant.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+15:40:31 **** Incremental Build of configuration Debug for project Vowel_Or_Consonant ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Vowel_Or_Consonant.o "..\\Vowel_Or_Consonant.c" 
+..\Vowel_Or_Consonant.c: In function 'main':
+..\Vowel_Or_Consonant.c:18:26: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   18 |                 printf("%c is Vowel ");
+      |                         ~^
+      |                          |
+      |                          int
+..\Vowel_Or_Consonant.c:22:26: warning: format '%c' expects a matching 'int' argument [-Wformat=]
+   22 |                 printf("%c is Consonant");
+      |                         ~^
+      |                          |
+      |                          int
+gcc -o Vowel_Or_Consonant.exe Vowel_Or_Consonant.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+15:40:39 **** Incremental Build of configuration Debug for project Vowel_Or_Consonant ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Vowel_Or_Consonant.o "..\\Vowel_Or_Consonant.c" 
+..\Vowel_Or_Consonant.c: In function 'main':
+..\Vowel_Or_Consonant.c:18:39: error: 'c' undeclared (first use in this function); did you mean 'ch'?
+   18 |                 printf("%c is Vowel ",c);
+      |                                       ^
+      |                                       ch
+..\Vowel_Or_Consonant.c:18:39: note: each undeclared identifier is reported only once for each function it appears in
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+15:40:47 **** Incremental Build of configuration Debug for project Vowel_Or_Consonant ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Vowel_Or_Consonant.o "..\\Vowel_Or_Consonant.c" 
+gcc -o Vowel_Or_Consonant.exe Vowel_Or_Consonant.o 
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+15:50:06 **** Rebuild of configuration Debug for project Largest_Num ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Largest_Num.o "..\\Largest_Num.c" 
+gcc -o Largest_Num.exe Largest_Num.o 
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+15:50:21 **** Incremental Build of configuration Debug for project Largest_Num ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Largest_Num.o "..\\Largest_Num.c" 
+gcc -o Largest_Num.exe Largest_Num.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Largest_Num.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Vowel_Or_Consonant
+15:50:22 **** Incremental Build of configuration Debug for project Largest_Num ****
+Info: Internal Builder is used for build
+gcc -o Largest_Num.exe Largest_Num.o 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Largest_Num.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:50:29 **** Incremental Build of configuration Debug for project Largest_Num ****
+Info: Internal Builder is used for build
+gcc -o Largest_Num.exe Largest_Num.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+15:52:46 **** Rebuild of configuration Debug for project Positive_Or_Negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Positive_Or_Negative.o "..\\Positive_Or_Negative.c" 
+..\Positive_Or_Negative.c: In function 'main':
+..\Positive_Or_Negative.c:14:9: error: expected declaration or statement at end of input
+   14 |         printf("Enter number to check : \n");
+      |         ^~~~~~
+..\Positive_Or_Negative.c:13:13: warning: unused variable 'num' [-Wunused-variable]
+   13 |         int num;
+      |             ^~~
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+15:54:32 **** Incremental Build of configuration Debug for project Positive_Or_Negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Positive_Or_Negative.o "..\\Positive_Or_Negative.c" 
+gcc -o Positive_Or_Negative.exe Positive_Or_Negative.o 
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Positive_Or_Negative
+15:58:17 **** Rebuild of configuration Debug for project Alphabet_Or_Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Alphabet_Or_Not.o "..\\Alphabet_Or_Not.c" 
+..\Alphabet_Or_Not.c: In function 'main':
+..\Alphabet_Or_Not.c:16:17: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   16 |         scanf("%c",ch);
+      |                ~^  ~~
+      |                 |  |
+      |                 |  int
+      |                 char *
+..\Alphabet_Or_Not.c:25:9: error: 'retrun' undeclared (first use in this function)
+   25 |         retrun 0;
+      |         ^~~~~~
+..\Alphabet_Or_Not.c:25:9: note: each undeclared identifier is reported only once for each function it appears in
+..\Alphabet_Or_Not.c:25:15: error: expected ';' before numeric constant
+   25 |         retrun 0;
+      |               ^~
+      |               ;
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Vowel_Or_Consonant
+15:58:23 **** Incremental Build of configuration Debug for project Alphabet_Or_Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Alphabet_Or_Not.o "..\\Alphabet_Or_Not.c" 
+..\Alphabet_Or_Not.c: In function 'main':
+..\Alphabet_Or_Not.c:16:17: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   16 |         scanf("%c",ch);
+      |                ~^  ~~
+      |                 |  |
+      |                 |  int
+      |                 char *
+..\Alphabet_Or_Not.c:16:9: warning: 'ch' is used uninitialized [-Wuninitialized]
+   16 |         scanf("%c",ch);
+      |         ^~~~~~~~~~~~~~
+..\Alphabet_Or_Not.c:14:14: note: 'ch' was declared here
+   14 |         char ch;
+      |              ^~
+gcc -o Alphabet_Or_Not.exe Alphabet_Or_Not.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Vowel_Or_Consonant
+15:58:29 **** Incremental Build of configuration Debug for project Alphabet_Or_Not ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Alphabet_Or_Not.o "..\\Alphabet_Or_Not.c" 
+gcc -o Alphabet_Or_Not.exe Alphabet_Or_Not.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+16:02:14 **** Rebuild of configuration Debug for project Sum_Of_Natural_Nums ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Sum_Of_Natural_Nums.o "..\\Sum_Of_Natural_Nums.c" 
+gcc -o Sum_Of_Natural_Nums.exe Sum_Of_Natural_Nums.o 
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+16:02:40 **** Incremental Build of configuration Debug for project Sum_Of_Natural_Nums ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Sum_Of_Natural_Nums.o "..\\Sum_Of_Natural_Nums.c" 
+gcc -o Sum_Of_Natural_Nums.exe Sum_Of_Natural_Nums.o 
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+16:05:45 **** Rebuild of configuration Debug for project Factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Factorial.o "..\\Factorial.c" 
+gcc -o Factorial.exe Factorial.o 
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Factorial
+Info: Nothing to build for Alphabet_Or_Not
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+16:06:00 **** Incremental Build of configuration Debug for project Factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Factorial.o "..\\Factorial.c" 
+gcc -o Factorial.exe Factorial.o 
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Factorial
+Info: Nothing to build for Alphabet_Or_Not
+19:45:49 **** Rebuild of configuration Debug for project Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Calculator.o "..\\Calculator.c" 
+..\Calculator.c: In function 'main':
+..\Calculator.c:17:55: warning: conversion lacks type at end of format [-Wformat=]
+   17 |             printf("Enter an operator + or - or * or % ");
+      |                                                       ^
+gcc -o Calculator.exe Calculator.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Factorial
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Alphabet_Or_Not
+19:46:16 **** Incremental Build of configuration Debug for project Calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o Calculator.o "..\\Calculator.c" 
+..\Calculator.c: In function 'main':
+..\Calculator.c:18:51: warning: conversion lacks type at end of format [-Wformat=]
+   18 |         printf("Enter an operator + or - or * or % ");
+      |                                                   ^
+gcc -o Calculator.exe Calculator.o 
+Info: Nothing to build for EX1_Print_Sentence
+Info: Nothing to build for EX2_Print_Int_By_User
+Info: Nothing to build for EX3_Add_Two_Nums
+Info: Nothing to build for EX4_Multiply_Two_Float
+Info: Nothing to build for EX5_Find_ASCII
+Info: Nothing to build for EX6_Swap_Two_Nums
+Info: Nothing to build for EX7_Swap_Without_Temp
+Info: Nothing to build for Even_Or_Odd
+Info: Nothing to build for Factorial
+Info: Nothing to build for Largest_Num
+Info: Nothing to build for Positive_Or_Negative
+Info: Nothing to build for Sum_Of_Natural_Nums
+Info: Nothing to build for Vowel_Or_Consonant
+Info: Nothing to build for Calculator

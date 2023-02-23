@@ -1,0 +1,19 @@
+/*
+ * EX5_Find_ASCII.c
+ *
+ *  Created on: Feb 23, 2023
+ *      Author: Mohamed Haytham
+ */
+
+
+#include <stdio.h>
+
+int main()
+{
+	setbuf(stdout,NULL);
+	char ch;
+	printf("Enter a character: \n");
+	scanf("%c",&ch);
+	printf("ASCII value of %c = %d",ch,ch);
+	return 0;
+}
